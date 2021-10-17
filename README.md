@@ -11,8 +11,9 @@ Purpose:
 	That can make target improve their performance more efficiency.
 	
 Confuse:
-	1.In case that the layers are too much. -> Reduce layers.
-	2.Some DMUs deviation from main group. 	-> Try another clustering method.
+
+1. In case that the layers are too much. -> Reduce layers.
+1. Some DMUs deviation from main group. 	-> Try another clustering method.
 	
 Screenshot:
 
